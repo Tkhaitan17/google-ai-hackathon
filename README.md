@@ -112,34 +112,6 @@ legallens-ai/
 - Insurance Policies
 - General Legal Documents
 
-## 🚀 Deployment
-
-### GitHub Pages
-1. Push your code to GitHub
-2. Go to repository Settings > Pages
-3. Select source branch
-4. Your app will be available at `https://yourusername.github.io/legallens-ai`
-
-### Netlify
-1. Connect your GitHub repository
-2. Set build command: `echo "No build required"`
-3. Set publish directory: `.`
-4. Add environment variables in Netlify dashboard
-
-### Vercel
-1. Import your GitHub repository
-2. Set framework: Other
-3. Add environment variables
-4. Deploy
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

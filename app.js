@@ -9,7 +9,7 @@ if (window.CONFIG?.GEMINI_API_KEY) {
     window.GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 } else {
     // Fallback - you can set this directly for production
-    window.GEMINI_API_KEY = 'AIzaSyCLWImqAa5u-7wqpwheMEaXf2rRAyfzHpw';
+    window.GEMINI_API_KEY = '';
 }
 
 // Global variables
